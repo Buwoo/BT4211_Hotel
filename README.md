@@ -22,3 +22,7 @@ Dataset Best Practices Comments:
 
 - DO NOT push the Dataset to Github tq
 - Try to keep the dataset naming convention and file path all the same etc. standard stuff
+
+
+Dataset info: 
+https://www.sciencedirect.com/science/article/pii/S2352340920314645?via%3Dihub
